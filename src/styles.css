@@ -10,6 +10,7 @@
     flex-direction: column;
     align-items: stretch;
     justify-content: flex-end;
+    z-index: 10000;
 }
 .lgpd-wrapper.prepare {
     display: inline-flex;
